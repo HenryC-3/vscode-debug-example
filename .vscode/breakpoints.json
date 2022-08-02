@@ -1,0 +1,86 @@
+[
+  {
+    "location": "/basic/continue.js",
+    "line": [
+      {
+        "line": 8,
+        "character": 0
+      },
+      {
+        "line": 8,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/basic/continue.js",
+    "line": [
+      {
+        "line": 19,
+        "character": 0
+      },
+      {
+        "line": 19,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/basic/step over.js",
+    "line": [
+      {
+        "line": 2,
+        "character": 0
+      },
+      {
+        "line": 2,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/basic/continue.js",
+    "line": [
+      {
+        "line": 5,
+        "character": 0
+      },
+      {
+        "line": 5,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/basic/continue.js",
+    "line": [
+      {
+        "line": 16,
+        "character": 0
+      },
+      {
+        "line": 16,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/basic/step into.js",
+    "line": [
+      {
+        "line": 19,
+        "character": 0
+      },
+      {
+        "line": 19,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  }
+]

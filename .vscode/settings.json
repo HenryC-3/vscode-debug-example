@@ -1,0 +1,11 @@
+{
+    "python.formatting.provider": "black",
+    "files.autoSave": "onWindowChange",
+    "todo-tree.general.tags": [
+        "▶️ Continue",
+        "↓ Step Into",
+        "↑ Step out",
+        "→ Step Over"
+    ],
+    "editor.snippetSuggestions": "top"
+}
