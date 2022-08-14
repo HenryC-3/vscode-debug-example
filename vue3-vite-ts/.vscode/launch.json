@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "edge",
+            "name": "vue3-vite-ts",
+            "skipFiles": [
+                "<node_internals>/**",
+                // skip node_modules
+                "**/node_modules/**",
+                // skip client.js/ts
+                "**/client.js",
+                "**/client.ts"
+            ],
+            "version": "stable",
+            "request": "launch",
+            "url": "http://localhost:5173",
+            "webRoot": "${workspaceFolder}/vue3-vite-ts/${file}"
+        }
+    ]
+}
