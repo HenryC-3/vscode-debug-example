@@ -5,20 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "edge",
             "name": "vue3-vite-ts",
+            "type": "edge",
             "skipFiles": [
                 "<node_internals>/**",
-                // skip node_modules
-                "**/node_modules/**",
-                // skip client.js/ts
-                "**/client.js",
+                "**/node_modules/**", // skip node_modules
+                "**/client.js", // skip client.js/ts
                 "**/client.ts"
             ],
             "version": "stable",
             "request": "launch",
             "url": "http://localhost:5173",
-            "webRoot": "${workspaceFolder}/vue3-vite-ts/${file}"
+            "webRoot": "${workspaceFolder}/vue3-vite-ts"
         }
     ]
 }

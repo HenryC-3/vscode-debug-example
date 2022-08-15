@@ -1,13 +1,32 @@
 {
     "folders": [
         {
-            "path": "basic"
-        },
-        {
+            "name": "debug multiple files at the same time",
             "path": "debug multiple files at the same time"
         },
         {
+            "name": "basic",
+            "path": "basic"
+        },
+        {
+            "name": "vue3-vite-ts",
             "path": "vue3-vite-ts"
+        },
+        {
+            "name": "root",
+            "path": "."
         }
-    ]
+    ],
+    "settings": {
+        "python.formatting.provider": "black",
+        "files.autoSave": "onWindowChange",
+        "todo-tree.general.tags": [
+            "Set breakpoint",
+            "▶️ Continue",
+            "↓ Step into",
+            "↑ Step out",
+            "→ Step over"
+        ],
+        "editor.snippetSuggestions": "top"
+    }
 }

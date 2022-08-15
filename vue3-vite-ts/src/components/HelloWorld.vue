@@ -5,11 +5,10 @@ defineProps<{ msg: string }>();
 
 const count = ref(0);
 const updateCount = () => {
-    // debugger;
-    count.value = count.value + 1;
+    count.value = count.value + 1; /*Set breakpoint*/ /*→ Step over*/
     console.log("go");
     console.log("go");
-    console.log("go");
+    console.log("go"); /*↑ Step out*/
     console.log("go");
     console.log("go");
 };

@@ -1,0 +1,22 @@
+{
+    "a.continue": {
+        "prefix": "ct",
+        "body": "/*▶️ Continue*/"
+    },
+    "a.step over": {
+        "prefix": "so",
+        "body": "/*→ Step over*/"
+    },
+    "a.step into": {
+        "prefix": "si",
+        "body": "/*↓ Step into*/"
+    },
+    "a.step out": {
+        "prefix": "st",
+        "body": "/*↑ Step out*/"
+    },
+    "c.breakpoint": {
+        "prefix": "set b",
+        "body": "/*Set breakpoint*/"
+    }
+}
