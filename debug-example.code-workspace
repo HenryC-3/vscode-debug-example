@@ -1,16 +1,12 @@
 {
     "folders": [
         {
-            "name": "debug multiple files at the same time",
-            "path": "debug multiple files at the same time"
-        },
-        {
-            "name": "basic",
-            "path": "basic"
+            "name": "features",
+            "path": "features"
         },
         {
             "name": "vue3-vite-ts",
-            "path": "vue3-vite-ts"
+            "path": "envs/vue3-vite-ts"
         },
         {
             "name": "root",
